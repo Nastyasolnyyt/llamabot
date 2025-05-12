@@ -7,8 +7,8 @@ from groq import Groq
 
 # streamlit page configuration
 st.set_page_config(
-    page_title="Shopping copilot",
-    page_icon="˚ ༘⋆🛍️｡˚",
+    page_title="Your personal assistant",
+    page_icon="😊",
     layout="centered"
 )
 
