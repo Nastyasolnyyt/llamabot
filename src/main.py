@@ -28,7 +28,7 @@ if "chat_history" not in st.session_state:
 
 
 # streamlit page title
-st.title("🛍️ Shopping copilot")
+st.title("😀 Your personal assistant")
 
 # display chat history
 for message in st.session_state.chat_history:
